@@ -10,7 +10,7 @@ print("\033c")
 set1={"Hola","123","123","Mexico","Holanda"}
 print(set1)
 set1.add("Ganador")
-set1.pop()
+set1.pop("Hola")
 print(set1)
 
 #ejemplo Crear un programa que solicite los email de los alumnos de la UTD almacenar en una lista y posteriormente mostrar en pantalla los email sin duplicad
